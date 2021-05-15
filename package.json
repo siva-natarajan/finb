@@ -1,0 +1,24 @@
+{
+  "name": "finb",
+  "version": "1.0.0",
+  "description": "checking user change again 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siva-natarajan/finb.git"
+  },
+  "author": "sivakumar.nm@yahoo.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siva-natarajan/finb/issues"
+  },
+  "homepage": "https://github.com/siva-natarajan/finb#readme",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
